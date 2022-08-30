@@ -5,10 +5,10 @@ p {
 }
 footer {
   text-align: center;
-  color: forestgreen;
 }
 footer a {
   margin: 0 10px;
+  color: forestgreen;
 }
 img {
   max-width: 100%;
